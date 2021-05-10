@@ -1,0 +1,2 @@
+# afDesign
+Affinity Designer Assets 
