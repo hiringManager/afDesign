@@ -1,8 +1,14 @@
-Various conversions from Diagrams.net
+# Various Affinity Related Stuff. 
 
-I've recieved permission from the Diagrams.net/Draw.io github to convert these assets. They are available under the Creative Commons license.
+They are available under the Creative Commons license.
 https://github.com/jgraph/drawio
 
-Feel free to leave any feedback about them. If you have any issues tell me and I'll see if I can clean them up at all. I'm new to Affinity Designer (purchased it two weeks ago) so I'm still learning a lot. 
+## Update: Attribution is required for drawio stuff? I think? idk up to you. Open Source without a BDFL is always a shitshow, so blame that for the lack of clarity.
+### Relevant info regarding it.
 
-If this generates some interest I'll continue converting what they have available. 
+https://github.com/jgraph/drawio/issues/557
+https://github.com/jgraph/drawio/issues/1981
+
+Leave me feedback / Create issues if I can improve anything or you see raster artifacts and stuff I miss.
+
+## Adding in some watch faces. Anything unmentioned license-wise is WTFPL (by me), or Public Domain. (Unless noted elsewhere.)
