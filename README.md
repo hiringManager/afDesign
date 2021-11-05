@@ -14,7 +14,9 @@ Leave me feedback / Create issues if I can improve anything.
 
 Added in some watch faces. Anything unmentioned license-wise is WTFPL (by me), or Public Domain. (Unless noted in the .afdesign.)
 
-![image](https://user-images.githubusercontent.com/64992493/123257138-6398e400-d4b7-11eb-9c76-83d2f5ec4d90.png)
+![image](https://user-images.githubusercontent.com/64992493/140550535-c8544763-1e67-4f3a-b445-c87c6aef3504.png)
+Aren't style libraries fun?
 
-11-5-2021
-Just cleaned these up and consolidated them into one library. 
+
+- 11-5-2021
+Cleaned these up and consolidated them into one library. 
